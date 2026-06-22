@@ -192,7 +192,7 @@ java -jar dist/SistemadeGestiondeHospitalProyecto.jar
 ```
 ---
 ## Autores
-Grupo 7
+Grupo 6
 
 - María Durango
 - Martín Suazo
